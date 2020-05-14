@@ -1,0 +1,2 @@
+!today=Today we do nothing
+!hello=hi
